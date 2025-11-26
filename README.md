@@ -1,13 +1,14 @@
 # NPC-Analytics-PowerBI
 
+Paralympic NPC Analytics Dashboard – Power BI
+
+🔥 Paralympic NPC Analytics Dashboard A visually engaging and insight-driven Power BI report that explores participation, performance, and athlete distribution across National Paralympic Committees (NPCs).
+
 https://github.com/user-attachments/assets/d66ee42a-53e7-4a21-bc2b-561ee8d6076f
 
 
 
-Paralympic NPC Analytics Dashboard – Power BI
 
-🔥 Paralympic NPC Analytics Dashboard
-A visually engaging and insight-driven Power BI report that explores participation, performance, and athlete distribution across National Paralympic Committees (NPCs).
 
 📊 Dashboard Highlights
 
