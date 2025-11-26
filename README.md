@@ -1,4 +1,9 @@
 # NPC-Analytics-PowerBI
+
+https://github.com/user-attachments/assets/d66ee42a-53e7-4a21-bc2b-561ee8d6076f
+
+
+
 Paralympic NPC Analytics Dashboard – Power BI
 
 🔥 Paralympic NPC Analytics Dashboard
@@ -32,7 +37,4 @@ Visual Storytelling & UI Design
 
 This project strengthened my analytics workflow—from cleaning the dataset to building an interactive, professional dashboard.
 Feedback, suggestions, and improvement ideas are always welcome!
-
-
-https://github.com/user-attachments/assets/d66ee42a-53e7-4a21-bc2b-561ee8d6076f
 
